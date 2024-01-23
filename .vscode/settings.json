@@ -1,0 +1,9 @@
+{
+    "workbench.settings.useSplitJSON": true,
+    "terminal.integrated.commandsToSkipShell": [
+        "\"emmet.includeLanguages\": {          \"django-html\": \"html\",     }"
+    ],
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    }
+}
